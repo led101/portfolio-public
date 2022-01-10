@@ -1,0 +1,8 @@
+
+frontend/.browserslistrc
+.DS_Store
+node_modules/
+src/assets/.DS_Store
+src/.DS_Store
+.DS_Store
+src/config.js
